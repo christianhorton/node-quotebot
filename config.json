@@ -1,0 +1,15 @@
+{
+  "networks": [
+    {
+      "host": "localhost",
+      "port": 6667,
+      "channels": ["#lounge"],
+      "nick": "np",
+      "admin": "dan",
+      "adminNickServ": false,
+      "prefix": "."
+    }
+  ],
+  "maxTags": 4,
+  "debug": false
+}
