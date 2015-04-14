@@ -1,15 +1,1 @@
-{
-  "networks": [
-    {
-      "host": "localhost",
-      "port": 6667,
-      "channels": ["#lounge"],
-      "nick": "np",
-      "admin": "dan",
-      "adminNickServ": false,
-      "prefix": "."
-    }
-  ],
-  "maxTags": 4,
-  "debug": false
-}
+[null,{"id":1,"message":"Test","user":"christian","timestamp":"4/13/2015"},{"id":2,"message":"Test","user":"christian","timestamp":"4/13/2015"},null,{"id":4,"message":"d","user":"christian","timestamp":"4/14/2015"}]
